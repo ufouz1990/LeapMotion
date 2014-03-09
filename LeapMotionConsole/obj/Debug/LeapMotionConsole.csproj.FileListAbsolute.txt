@@ -1,0 +1,5 @@
+c:\users\kyle\documents\visual studio 2013\Projects\LeapMotionConsole\LeapMotionConsole\bin\Debug\LeapMotionConsole.exe
+c:\users\kyle\documents\visual studio 2013\Projects\LeapMotionConsole\LeapMotionConsole\bin\Debug\LeapMotionConsole.pdb
+c:\users\kyle\documents\visual studio 2013\Projects\LeapMotionConsole\LeapMotionConsole\obj\Debug\LeapMotionConsole.csprojResolveAssemblyReference.cache
+c:\users\kyle\documents\visual studio 2013\Projects\LeapMotionConsole\LeapMotionConsole\obj\Debug\LeapMotionConsole.exe
+c:\users\kyle\documents\visual studio 2013\Projects\LeapMotionConsole\LeapMotionConsole\obj\Debug\LeapMotionConsole.pdb

@@ -30,6 +30,7 @@ namespace LeapMotionConsole
                 double rads = Math.Round(A.AngleTo(B), 2);
                 Console.WriteLine("Radians " + rads);
                 //Console.WriteLine("Degrees " + Math.Round(rads*180/Math.PI, 2));
+                Console.Write("");
 
                 //Console.WriteLine("Thumb: " + Math.Round(frame.Fingers[0].Length / 10, 2) + "cm");
                 //Console.WriteLine("Index: " + Math.Round(frame.Fingers[1].Length / 10, 2) + "cm");
